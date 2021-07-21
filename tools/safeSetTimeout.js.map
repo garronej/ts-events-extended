@@ -1,0 +1,1 @@
+{"version":3,"file":"safeSetTimeout.js","sourceRoot":"","sources":["../src/tools/safeSetTimeout.ts"],"names":[],"mappings":";;;AAGO,IAAM,cAAc,GAAG,UAAC,QAAoB,EAAE,EAAU,IAAY,OAAA,UAAU,CAAC,QAAQ,EAAE,EAAE,CAAQ,EAA/B,CAA+B,CAAC;AAA9F,QAAA,cAAc,kBAAgF;AACpG,IAAM,gBAAgB,GAAG,UAAC,KAAY,IAAW,OAAA,YAAY,CAAC,KAAY,CAAC,EAA1B,CAA0B,CAAC;AAAtE,QAAA,gBAAgB,oBAAsD"}

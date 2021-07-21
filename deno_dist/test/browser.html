@@ -1,0 +1,9 @@
+<script src="../../dist/bundle.js" charset="UTF-8"></script>
+<script>
+    const { Evt } = window["evt"];
+
+    window.addEventListener('resize', ()=> console.log("ok") );
+
+    Evt.from(window, 'resize').attach(()=> console.log("ok!"));
+
+</script>
